@@ -53,15 +53,63 @@ Senior Web Developer with **10+ years of experience** building, maintaining, and
 
 ---
 
-### 🚀 Selected Projects
+### 🚀 Selected Case Studies & Projects
 
-| Project | Description | Stack / Technologies | Live / Link |
-| :--- | :--- | :--- | :--- |
-| **🏢 SISMN LLC** | Institutional Architecture &amp; Land Development platform with 3D canvas sequence animation and responsive UI. | React, TypeScript, Tailwind CSS, GSAP, Vite, Vercel | [Live Demo](https://sismnllc.vercel.app) • [GitHub](https://github.com/imhocien/sismnllc) |
-| **🛒 Magic Sim** | Rebuilt legacy store into a high-performing multilingual e-commerce platform across 6 languages. | WordPress, WooCommerce, Elementor Pro, WPML | [magic-sim.com](https://magic-sim.com) |
-| **🌙 Scofa Sleepcare** | Medical e-commerce site featuring video galleries, AJAX product filtering, and technical SEO optimization. | WordPress, WooCommerce, PHP 8, AJAX | [scofasleepcare.com](https://scofasleepcare.com) |
-| **✨ Interactive React Portfolio** | Dynamic React web app with smooth on-scroll video animations and interactive components. | React, Tailwind CSS, Modern JS | [Georgies Aesthetics](https://georgies-aesthetics.com) |
-| **🛍️ Shop Wave** | Full-Stack React CRUD application with modular component architecture and API integration. | React, Tailwind CSS, REST APIs | Full-Stack CRUD |
+<details open>
+<summary><b>🏢 SISMN LLC — Architectural &amp; Land Development Web Platform</b></summary>
+<br />
+
+* **🛠️ Technologies:** React 18, TypeScript, Tailwind CSS, GSAP, HTML5 Canvas, Vite, Vercel
+* **🎯 Challenge:** Engineer a high-impact, institutional architectural &amp; engineering platform with interactive sub-frame image sequences, smooth scroll choreography, and floating atmospheric depth.
+* **💡 Solution:** Built a responsive React application featuring an interactive sub-frame canvas sequence, custom GSAP ScrollTrigger timeline, custom Tailwind tokens, and continuous integration via Vercel.
+* **🔗 Links:** [Live Demo](https://sismnllc.vercel.app) • [GitHub Repository](https://github.com/imhocien/sismnllc)
+</details>
+
+<br />
+
+<details open>
+<summary><b>🛒 Magic Sim — E-Commerce Magento Migration</b></summary>
+<br />
+
+* **🛠️ Technologies:** WordPress, WooCommerce, Elementor Pro, WPML, PHP 8, MySQL
+* **🎯 Challenge:** Migrate a legacy Magento store to a flexible, modern platform while preserving international e-commerce functionality across 6 languages.
+* **💡 Solution:** Rebuilt the site using WordPress and WooCommerce, enabling a high-performing multilingual shopping experience across 6 languages with streamlined content management.
+* **🔗 Link:** [magic-sim.com](https://magic-sim.com)
+</details>
+
+<br />
+
+<details open>
+<summary><b>🌙 Scofa Sleepcare — Content-Rich Medical E-Commerce Platform</b></summary>
+<br />
+
+* **🛠️ Technologies:** WordPress, WooCommerce, PHP 8, AJAX, CSS3, Technical SEO
+* **🎯 Challenge:** Build a high-converting, content-rich medical e-commerce platform with fast search and media integration.
+* **💡 Solution:** Developed custom WordPress and WooCommerce templates featuring video galleries, AJAX product filtering, responsive marketing landing pages, performance tuning, and technical SEO.
+* **🔗 Link:** [scofasleepcare.com](https://scofasleepcare.com)
+</details>
+
+<br />
+
+<details open>
+<summary><b>✨ Interactive React Portfolio — Georgies Aesthetics</b></summary>
+<br />
+
+* **🛠️ Technologies:** React, Tailwind CSS, JavaScript ES6+, Framer Motion
+* **🎯 Challenge:** Develop a high-performance and responsive React application featuring complex interactive UI components and dynamic on-scroll video animations.
+* **💡 Solution:** Developed a responsive React application with interactive UI components and smooth on-scroll video animations, focused on performance, responsiveness, and delivering an engaging user experience.
+</details>
+
+<br />
+
+<details open>
+<summary><b>🛍️ Shop Wave — Full-Stack React CRUD Application</b></summary>
+<br />
+
+* **🛠️ Technologies:** React, Tailwind CSS, Node.js, REST APIs, Modular Component Architecture
+* **🎯 Challenge:** Create a responsive sample read/write application to demonstrate modern full-stack web development and efficient data flow.
+* **💡 Solution:** Engineered a responsive React application using a modular component architecture and efficient API integration, delivering high performance, intuitive navigation, and a seamless user experience.
+</details>
 
 ---
 

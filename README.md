@@ -62,7 +62,31 @@ Senior Web Developer with **10+ years of experience** building, maintaining, and
 * **🛠️ Technologies:** React 18, TypeScript, Tailwind CSS, GSAP, HTML5 Canvas, Vite, Vercel
 * **🎯 Challenge:** Engineer a high-impact, institutional architectural &amp; engineering platform with interactive sub-frame image sequences, smooth scroll choreography, and floating atmospheric depth.
 * **💡 Solution:** Built a responsive React application featuring an interactive sub-frame canvas sequence, custom GSAP ScrollTrigger timeline, custom Tailwind tokens, and continuous integration via Vercel.
-* **🔗 Links:** [Live Demo](https://sismnllc.vercel.app) • [GitHub Repository](https://github.com/imhocien/sismnllc)
+* **🔗 Links:** [Live Vercel Demo](https://sismnllc.vercel.app) • [GitHub Repository](https://github.com/imhocien/sismnllc)
+</details>
+
+<br />
+
+<details open>
+<summary><b>✨ Interactive React Portfolio — Georgies Aesthetics</b></summary>
+<br />
+
+* **🛠️ Technologies:** React, JavaScript ES6+, Tailwind CSS, Framer Motion, Vercel
+* **🎯 Challenge:** Develop a high-performance and responsive React application featuring complex interactive UI components and dynamic on-scroll video animations.
+* **💡 Solution:** Developed a responsive React application with interactive UI components and smooth on-scroll video animations, focused on performance, responsiveness, and delivering an engaging user experience.
+* **🔗 Links:** [Live Vercel Demo](https://surgical-seven.vercel.app) • [GitHub Repository](https://github.com/imhocien/surgical)
+</details>
+
+<br />
+
+<details open>
+<summary><b>🛍️ Shop Wave — Full-Stack React CRUD Application</b></summary>
+<br />
+
+* **🛠️ Technologies:** React, Tailwind CSS, Node.js, REST APIs, Vercel
+* **🎯 Challenge:** Create a responsive sample read/write application to demonstrate modern full-stack web development and efficient data flow.
+* **💡 Solution:** Engineered a responsive React application using a modular component architecture and efficient API integration, delivering high performance, intuitive navigation, and a seamless user experience.
+* **🔗 Links:** [Live Vercel Demo](https://courier-ruby-tau.vercel.app) • [GitHub Repository](https://github.com/imhocien/courier)
 </details>
 
 <br />
@@ -87,28 +111,6 @@ Senior Web Developer with **10+ years of experience** building, maintaining, and
 * **🎯 Challenge:** Build a high-converting, content-rich medical e-commerce platform with fast search and media integration.
 * **💡 Solution:** Developed custom WordPress and WooCommerce templates featuring video galleries, AJAX product filtering, responsive marketing landing pages, performance tuning, and technical SEO.
 * **🔗 Link:** [scofasleepcare.com](https://scofasleepcare.com)
-</details>
-
-<br />
-
-<details open>
-<summary><b>✨ Interactive React Portfolio — Georgies Aesthetics</b></summary>
-<br />
-
-* **🛠️ Technologies:** React, Tailwind CSS, JavaScript ES6+, Framer Motion
-* **🎯 Challenge:** Develop a high-performance and responsive React application featuring complex interactive UI components and dynamic on-scroll video animations.
-* **💡 Solution:** Developed a responsive React application with interactive UI components and smooth on-scroll video animations, focused on performance, responsiveness, and delivering an engaging user experience.
-</details>
-
-<br />
-
-<details open>
-<summary><b>🛍️ Shop Wave — Full-Stack React CRUD Application</b></summary>
-<br />
-
-* **🛠️ Technologies:** React, Tailwind CSS, Node.js, REST APIs, Modular Component Architecture
-* **🎯 Challenge:** Create a responsive sample read/write application to demonstrate modern full-stack web development and efficient data flow.
-* **💡 Solution:** Engineered a responsive React application using a modular component architecture and efficient API integration, delivering high performance, intuitive navigation, and a seamless user experience.
 </details>
 
 ---
